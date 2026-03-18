@@ -1,0 +1,5 @@
+# 智能体工作流依赖包
+llama-index
+llama-index-llms-deepseek
+python-dotenv
+duckduckgo-search

@@ -1,0 +1,4 @@
+# 对话程序依赖包
+llama-index
+llama-index-llms-deepseek
+python-dotenv

@@ -1,0 +1,12 @@
+# RAG智能体项目依赖包
+llama-index==0.9.48
+llama-index-llms-deepseek==0.1.2
+llama-index-embeddings-ollama==0.1.4
+python-dotenv==1.0.0
+pytorch
+numpy
+pandas
+requests
+sentence-transformers
+langchain
+tqdm==4.66.4
