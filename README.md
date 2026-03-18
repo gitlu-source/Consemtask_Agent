@@ -210,8 +210,8 @@ huggingface-cli login
 
 如有问题或建议，请通过以下方式联系：
 
-- 邮箱：your-email@example.com
-- 项目主页：https://github.com/your-username/agent-project
+- 邮箱：3180291857@qq.com
+- 项目主页：https://github.com/gitlu-source/Consemtask_Agent
 
 ---
 
